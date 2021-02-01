@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+    <facet type="apk" name="APK">
+      <configuration>
+        <option name="APK_PATH" value="$MODULE_DIR$/myapp-0.1-armeabi-v7a-debug (3).apk" />
+        <option name="APP_PACKAGE" value="org.test.myapp" />
+        <option name="SETUP_ISSUES">
+          <list>
+            <SetupIssue>
+              <option name="severity" value="ERROR" />
+              <option name="category" value="SDK_NOT_FOUND" />
+              <option name="extraInfo" value="27" />
+            </SetupIssue>
+            <SetupIssue>
+              <option name="severity" value="WARNING" />
+              <option name="category" value="DEBUG_SYMBOLS_MISSING" />
+              <option name="extraInfo" value="" />
+            </SetupIssue>
+          </list>
+        </option>
+        <option name="NATIVE_LIBRARIES">
+          <list>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libSDL2.so" />
+                </list>
+              </option>
+              <option name="name" value="libSDL2.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libSDL2_image.so" />
+                </list>
+              </option>
+              <option name="name" value="libSDL2_image.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libSDL2_mixer.so" />
+                </list>
+              </option>
+              <option name="name" value="libSDL2_mixer.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libSDL2_ttf.so" />
+                </list>
+              </option>
+              <option name="name" value="libSDL2_ttf.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libcrypto1.1.so" />
+                </list>
+              </option>
+              <option name="name" value="libcrypto1.1.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libffi.so" />
+                </list>
+              </option>
+              <option name="name" value="libffi.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libhidapi.so" />
+                </list>
+              </option>
+              <option name="name" value="libhidapi.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libmain.so" />
+                </list>
+              </option>
+              <option name="name" value="libmain.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libpython3.8m.so" />
+                </list>
+              </option>
+              <option name="name" value="libpython3.8m.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libsqlite3.so" />
+                </list>
+              </option>
+              <option name="name" value="libsqlite3.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+            <NativeLibrary>
+              <option name="sharedObjectFilePaths">
+                <list>
+                  <option value="$MODULE_DIR$/lib/armeabi-v7a/libssl1.1.so" />
+                </list>
+              </option>
+              <option name="name" value="libssl1.1.so" />
+              <option name="debuggableSharedObjectFilesByAbi">
+                <map />
+              </option>
+              <option name="pathMappings">
+                <map />
+              </option>
+              <option name="hasDebugSymbols" value="false" />
+            </NativeLibrary>
+          </list>
+        </option>
+        <option name="JAVA_SOURCE_FOLDER_PATHS">
+          <set />
+        </option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/lib" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
